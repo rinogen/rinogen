@@ -1,6 +1,10 @@
 ### Hola, Amigos 👋
 
-🌱 I’m undergraduate student of Software Engineering at [Universitas Gadjah Mada](https://www.ugm.ac.id/)
+🌱 I’m Undergraduate Student of Software Engineering at [Universitas Gadjah Mada](https://www.ugm.ac.id/)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rinogen)](https://github-readme-stats-rinogen.vercel.app/)
+
+
 <!--
 **rinogen/rinogen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
