@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hola, Amigos 👋
 
+🌱 I’m undergraduate student of Software Engineering at [Universitas Gadjah Mada](https://www.ugm.ac.id/)
 <!--
 **rinogen/rinogen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
