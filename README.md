@@ -3,9 +3,9 @@
 🌱 I’m Undergraduate Student of Software Engineering at [Universitas Gadjah Mada](https://www.ugm.ac.id/)
 
 <a href="https://github-readme-stats-rinogen.vercel.app">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=rinogen&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinogen" />
 </a>
-
+<br/>
 <a href="https://github-readme-stats-rinogen.vercel.app">
   <img align="left" src="https://github-readme-stats-rinogen.vercel.app/api?username=rinogen&show_icons=true&theme=gruvbox" />
 </a>
