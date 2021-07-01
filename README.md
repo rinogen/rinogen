@@ -2,8 +2,8 @@
 
 🌱 I’m Undergraduate Student of Software Engineering at [Universitas Gadjah Mada](https://www.ugm.ac.id/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/?username=rinogen&layout=compact)](https://github-readme-stats-rinogen.vercel.app/)
-<!-- [![My GitHub stats](https://github-readme-stats-rinogen.vercel.app/api?username=rinogen&show_icons=true&theme=gruvbox)](https://github-readme-stats-rinogen.vercel.app/) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinogen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-rinogen.vercel.app/api?username=rinogen&show_icons=true&theme=gruvbox)](https://github-readme-stats-rinogen.vercel.app/)
 
 
 <!--
